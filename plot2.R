@@ -1,4 +1,4 @@
-#This script loads a dataframe and creates the plot1.png histogram
+#This script loads a dataframe and creates the plot2.png histogram
 #set the colClasses for the data set
 myColClasses<-c("character","character","numeric","numeric","numeric","numeric","numeric","numeric","numeric")
 #Read it all in, just because I can
